@@ -1,0 +1,6 @@
+{
+  "name": "MacroPulse Economic Calendar & Market Drivers",
+  "description": "Real-time global macro economic calendar, cause-and-reaction market drivers for forex, gold, and oil, economic dictionary, live news sync, and on-screen alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
